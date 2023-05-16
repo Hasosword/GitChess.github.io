@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chessboard</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="chessboard">
+        <table>
+            <tbody>
+                <tr>
+                    <td class="white"></td>
+                    <td class="black"></td>
+                    <td class="white"></td>
+                    <!-- ... Repeat the pattern for the remaining rows -->
+                </tr>
+                <!-- ... Repeat the pattern for the remaining rows -->
+            </tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
